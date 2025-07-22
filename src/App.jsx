@@ -470,8 +470,8 @@ export default function App() {
         <div className="min-h-screen flex flex-col">
             <header className="bg-white shadow-sm sticky top-0 z-20">
                 <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-4 relative">
-                    <h1 className="text-2xl font-bold text-gray-800">Simulador de Negocios y Rentabilidad</h1>
-                    <p className="text-gray-500">Analiza el impacto de tus decisiones en la salud financiera de toda la operación.</p>
+                    <h1 className="text-2xl font-bold text-gray-800">Simulador</h1>
+                    <p className="text-gray-500">LMA</p>
                     <Auth user={user} />
                 </div>
             </header>
